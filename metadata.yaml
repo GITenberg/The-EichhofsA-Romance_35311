@@ -1,0 +1,42 @@
+_repo: The-EichhofsA-Romance_35311
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wister, A. L. (Annis Lee)
+    aliases:
+    - Furness, Annis Lee
+    - Wister, Annis Lee
+    - Wister, A.L.
+    - Wister, Mrs. A. L.
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '37305'
+    url: http://www.gutenberg.org/2009/agents/37305
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bethusy-Huc, Valeska, Gräfin von
+    aliases:
+    - Reichenbach, Moritz von
+    - Bethusy-Huc, Valeska, Grafin von
+    - Bethusy-Huc, Valeska (von Reiswitz-Kaderzin) gräfin von
+    birthdate: 1849
+    deathdate: 1926
+    gutenberg_agent_id: '37590'
+    url: http://www.gutenberg.org/2009/agents/37590
+description: ''
+gutenberg_issued: '2011-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: 'The Eichhofs: A Romance'
+url: http://www.gutenberg.org/ebooks/35311
